@@ -1,0 +1,24 @@
+.quote {
+  font-family: "Comfortaa", cursive;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  bottom: 0px;
+  padding: 10px 0px;
+  width: 100vw;
+  background-color: var(--background-color);
+  opacity: var(--opacity);
+}
+.quote span {
+  display: block;
+  margin-bottom: 5px;
+}
+.quote span:first-child {
+  font-weight: 600;
+  font-size: 19px;
+}
+.quote span:last-child {
+  font-weight: 400;
+}

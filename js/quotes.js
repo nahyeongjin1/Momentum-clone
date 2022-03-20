@@ -1,6 +1,6 @@
 const quotes = [
   {
-    quote: "The way to get started is to quit talking adn begin doing.",
+    quote: "The way to get started is to quit talking and begin doing.",
     author: "Walt Disney",
   },
   {
@@ -19,7 +19,7 @@ const quotes = [
   },
   {
     quote:
-      "imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.",
+      "Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.",
     author: "Marilyn Monroe",
   },
   {

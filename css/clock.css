@@ -1,0 +1,16 @@
+.clock {
+  width: 480px;
+  font-family: "Lobster", cursive;
+  margin-top: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 700%;
+  background-color: var(--background-color);
+  opacity: var(--opacity);
+  border-radius: 30px;
+  letter-spacing: 7px;
+  padding-left: 10px;
+  padding: 10px 10px 10px 20px;
+  margin-bottom: 40px;
+}
